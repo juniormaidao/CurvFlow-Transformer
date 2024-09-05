@@ -15,6 +15,7 @@ pip install ogb==1.3.2
 pip install rdkit-pypi==2021.9.3
 pip install dgl==0.7.2 -f https://data.dgl.ai/wheels/repo.html
 
+mkdir fairseq
 cd fairseq
 # if fairseq submodule has not been checkouted, run:
 # git submodule update --init --recursive
